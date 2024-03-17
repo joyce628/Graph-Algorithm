@@ -9,10 +9,11 @@ GraphLib makes working with graphs in JavaScript simple and straightforward. It'
 To include GraphLib in your project, you can install it directly from the GitHub repository:
 
 ```bash
-npm install git+https://github.com/yourusername/graphlib-js.git
+npm install (https://github.com/joyce628/Graph-Algorithm.git)
 ```
 
 ##Quick Start
+
 Here's how you can get started with GraphLib:
 
 1. Create a Graph:
